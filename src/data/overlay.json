@@ -1,0 +1,16 @@
+{
+  "lit": {
+    "headword": "lit",
+    "slang": true,
+    "tags": ["slang", "AAVE"],
+    "usageNote": "In Black American English, often means excited, excellent, or intoxicated.",
+    "culturalNote": "Widely used in North American youth and Black vernacular."
+  },
+  "fam": {
+    "headword": "fam",
+    "slang": true,
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Short for family; used to address close friends or crew.",
+    "culturalNote": "Common in Black English and hip-hop culture."
+  }
+}
