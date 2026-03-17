@@ -1,0 +1,3271 @@
+{
+  "lit": {
+    "headword": "lit",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "In Black American English, often means excited, excellent, or intoxicated.",
+    "culturalNote": "Widely used in North American youth and Black vernacular."
+  },
+  "fam": {
+    "headword": "fam",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Short for family; used to address close friends or crew.",
+    "culturalNote": "Common in Black English and hip-hop culture."
+  },
+  "rizz": {
+    "headword": "rizz",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang"],
+    "usageNote": "Charisma, charm, or ability to attract others. Short for 'charisma.'",
+    "culturalNote": "Exploded on TikTok; often 'rizz up' or 'pull rizz.'"
+  },
+  "sigma": {
+    "headword": "sigma",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "A lone-wolf type who succeeds without seeking approval; from 'sigma male' meme.",
+    "culturalNote": "Part of alpha/beta/sigma internet masculinity slang."
+  },
+  "gyatt": {
+    "headword": "gyatt",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Exclamation of surprise or approval; often used reactively.",
+    "culturalNote": "Spread via streaming and Gen Alpha platforms."
+  },
+  "skibidi": {
+    "headword": "skibidi",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Nonsense word from viral Skibidi Toilet series; used for humor or randomness.",
+    "culturalNote": "Gen Alpha internet culture, YouTube Shorts."
+  },
+  "fanum tax": {
+    "headword": "fanum tax",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "When someone takes a bite of your food; from streamer Fanum.",
+    "culturalNote": "Twitch/streaming culture, Gen Alpha."
+  },
+  "slay": {
+    "headword": "slay",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "To do something exceptionally well; to look amazing.",
+    "culturalNote": "From ballroom and Black queer culture; mainstream Gen Z."
+  },
+  "bussin": {
+    "headword": "bussin",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Really good, especially food. 'This is bussin.'",
+    "culturalNote": "Black American English, spread to Gen Z broadly."
+  },
+  "no cap": {
+    "headword": "no cap",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "No lie; for real. 'No cap, that was fire.'",
+    "culturalNote": "Black American English; cap = lie."
+  },
+  "cap": {
+    "headword": "cap",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "A lie or something false. 'That's cap.'",
+    "culturalNote": "Black American English; opposite of 'no cap.'"
+  },
+  "bet": {
+    "headword": "bet",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Okay, agreed, or 'I'm in.' Used as confirmation.",
+    "culturalNote": "Common in North American youth and Black English."
+  },
+  "drip": {
+    "headword": "drip",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Style, swag, or fashionable appearance.",
+    "culturalNote": "Hip-hop and Black English; 'drip' = what you're wearing."
+  },
+  "vibe": {
+    "headword": "vibe",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "The mood or feeling of a situation; to relax or get along. 'Good vibes.'",
+    "culturalNote": "Widespread; roots in Black and hippie usage."
+  },
+  "stan": {
+    "headword": "stan",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "To be an obsessive fan (noun or verb). From Eminem's 'Stan.'",
+    "culturalNote": "Internet fandom; used across Gen Z and Millennial."
+  },
+  "ghost": {
+    "headword": "ghost",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To disappear from someone's life or ignore messages (ghosting).",
+    "culturalNote": "Dating and social media; Millennial/Gen Z."
+  },
+  "tea": {
+    "headword": "tea",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Gossip or juicy information. 'Spill the tea.'",
+    "culturalNote": "From Black queer and drag culture."
+  },
+  "woke": {
+    "headword": "woke",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Aware of social injustice; sometimes used ironically.",
+    "culturalNote": "Black American English; broad political and ironic use."
+  },
+  "period": {
+    "headword": "period",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Emphasis: 'And that's that, period.' End of discussion.",
+    "culturalNote": "Black English; used for finality or agreement."
+  },
+  "fire": {
+    "headword": "fire",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Really good, hot, or excellent. 'That track is fire.'",
+    "culturalNote": "Hip-hop and Black English; mainstream Gen Z."
+  },
+  "lowkey": {
+    "headword": "lowkey",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Kind of, a little bit; or kept quiet. 'Lowkey obsessed.'",
+    "culturalNote": "Black English; opposite of highkey."
+  },
+  "highkey": {
+    "headword": "highkey",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Obviously, very much; not hiding it. 'Highkey need this.'",
+    "culturalNote": "Black English; pairs with lowkey."
+  },
+  "yeet": {
+    "headword": "yeet",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "To throw something with force; or an exclamation of excitement.",
+    "culturalNote": "Viral Vine/origin meme; Gen Z staple."
+  },
+  "simp": {
+    "headword": "simp",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Someone who goes overboard to please another person (often romantically).",
+    "culturalNote": "Internet slang; sometimes used negatively."
+  },
+  "sus": {
+    "headword": "sus",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Suspicious; from Among Us. 'That's kinda sus.'",
+    "culturalNote": "Gaming and internet; Gen Z."
+  },
+  "based": {
+    "headword": "based",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Authentic, not caring what others think; or agreeing strongly.",
+    "culturalNote": "From Lil B; internet and Gen Z."
+  },
+  "mid": {
+    "headword": "mid",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Mediocre, average, not great. 'That was mid.'",
+    "culturalNote": "Black English and gaming; Gen Z."
+  },
+  "valid": {
+    "headword": "valid",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Legit, real, or fair. 'That's valid.'",
+    "culturalNote": "Black English; Gen Z agreement."
+  },
+  "slaps": {
+    "headword": "slaps",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Really good, especially music. 'This song slaps.'",
+    "culturalNote": "Widespread Gen Z; music and food."
+  },
+  "go off": {
+    "headword": "go off",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "To do something really well or to rant. 'She went off.'",
+    "culturalNote": "Black English; praise or drama."
+  },
+  "deadass": {
+    "headword": "deadass",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Seriously, for real. 'Deadass, I'm done.'",
+    "culturalNote": "Black American English; New York influence."
+  },
+  "fr": {
+    "headword": "fr",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "For real. 'Fr though.'",
+    "culturalNote": "Text and speech; Gen Z."
+  },
+  "bestie": {
+    "headword": "bestie",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Best friend; used affectionately or ironically.",
+    "culturalNote": "Social media and Gen Z friendship language."
+  },
+  "salty": {
+    "headword": "salty",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Upset, bitter, or annoyed. 'Don't be salty.'",
+    "culturalNote": "Gaming and general slang; Millennial/Gen Z."
+  },
+  "shook": {
+    "headword": "shook",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Shocked, startled. 'I'm shook.'",
+    "culturalNote": "Black English; mainstream Gen Z."
+  },
+  "squad": {
+    "headword": "squad",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Your close friend group. 'Squad goals.'",
+    "culturalNote": "Black English and social media; Gen Z/Millennial."
+  },
+  "flex": {
+    "headword": "flex",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "To show off money, status, or something. 'Flex on them.'",
+    "culturalNote": "Hip-hop and Black English."
+  },
+  "adulting": {
+    "headword": "adulting",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Doing grown-up tasks (bills, chores). 'I'm adulting today.'",
+    "culturalNote": "Millennial humor about responsibility."
+  },
+  "fomo": {
+    "headword": "fomo",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Fear of missing out. Anxiety about not being where the action is.",
+    "culturalNote": "Social media era; Millennial staple."
+  },
+  "yolo": {
+    "headword": "yolo",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "You only live once. Used to justify a risky or fun choice.",
+    "culturalNote": "Early 2010s; Drake and Millennial culture."
+  },
+  "hangry": {
+    "headword": "hangry",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Angry because you're hungry. Hungry + angry.",
+    "culturalNote": "Millennial portmanteau; widely adopted."
+  },
+  "ship": {
+    "headword": "ship",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "To support a romantic pairing (relationship). 'I ship them.'",
+    "culturalNote": "Fandom culture; from 'relationship.'"
+  },
+  "basic": {
+    "headword": "basic",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Mainstream, unoriginal, or predictable. 'Basic white girl.'",
+    "culturalNote": "Millennial critique of mainstream taste."
+  },
+  "cancel": {
+    "headword": "cancel",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "To reject or boycott someone (cancel culture).",
+    "culturalNote": "Social media accountability; Millennial/Gen Z."
+  },
+  "whatever": {
+    "headword": "whatever",
+    "slang": true,
+    "generation": "Gen X",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Dismissive; I don't care. Often drawn out: 'Whatev-er.'",
+    "culturalNote": "Gen X attitude; 90s staple."
+  },
+  "chill": {
+    "headword": "chill",
+    "slang": true,
+    "generation": "Gen X",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Relax; or cool, laid-back. 'Let's chill.' 'He's chill.'",
+    "culturalNote": "Gen X and hip-hop; still used by Millennials and Gen Z."
+  },
+  "buzzkill": {
+    "headword": "buzzkill",
+    "slang": true,
+    "generation": "Gen X",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Someone or something that ruins the mood or fun.",
+    "culturalNote": "Gen X and Boomer; party and drug culture origins."
+  },
+  "poser": {
+    "headword": "poser",
+    "slang": true,
+    "generation": "Gen X",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Someone who pretends to be something they're not; fake fan.",
+    "culturalNote": "Punk and alternative Gen X culture."
+  },
+  "sellout": {
+    "headword": "sellout",
+    "slang": true,
+    "generation": "Gen X",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Someone who abandons principles for money or mainstream success.",
+    "culturalNote": "Punk and indie Gen X ethos."
+  },
+  "meh": {
+    "headword": "meh",
+    "slang": true,
+    "generation": "Gen X",
+    "tags": ["slang", "internet"],
+    "usageNote": "Indifferent, mediocre. 'It was meh.'",
+    "culturalNote": "Simpsons origin; Gen X and internet."
+  },
+  "cool": {
+    "headword": "cool",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Good, approved, fashionable. The all-purpose positive.",
+    "culturalNote": "Jazz and Beat era; Boomer and lasting."
+  },
+  "dig": {
+    "headword": "dig",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To like or understand. 'I dig it.'",
+    "culturalNote": "Beat and 60s; Boomer slang."
+  },
+  "groovy": {
+    "headword": "groovy",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Cool, great, in the groove. 'That's groovy.'",
+    "culturalNote": "60s and 70s; Boomer and hippie era."
+  },
+  "far out": {
+    "headword": "far out",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Amazing, mind-blowing, or weird in a good way.",
+    "culturalNote": "60s counterculture; Boomer."
+  },
+  "hip": {
+    "headword": "hip",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "In the know, fashionable. 'Hip to the scene.'",
+    "culturalNote": "Jazz and Beat; Boomer era; root of 'hippie.'"
+  },
+  "ohio": {
+    "headword": "ohio",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Meme term for something weird, surreal, or off. 'That's so Ohio.'",
+    "culturalNote": "TikTok and Gen Alpha; Ohio as absurdist punchline."
+  },
+  "grimace shake": {
+    "headword": "grimace shake",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Viral McDonald's purple shake; meme about it being cursed or weird.",
+    "culturalNote": "2023 TikTok trend; Gen Alpha viral marketing meme."
+  },
+  "main character": {
+    "headword": "main character",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "You or someone as the star of their own story. 'Main character energy.'",
+    "culturalNote": "TikTok and Gen Alpha self-identity; main character moment."
+  },
+  "npc": {
+    "headword": "npc",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Non-player character; someone basic, following a script, or not unique.",
+    "culturalNote": "Gaming term; Gen Alpha uses for people who lack personality."
+  },
+  "touch grass": {
+    "headword": "touch grass",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Go outside; get a life. Used when someone is too online.",
+    "culturalNote": "Internet insult; Gen Alpha and Gen Z."
+  },
+  "banger": {
+    "headword": "banger",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "A really good song or track. 'This is a banger.'",
+    "culturalNote": "Music slang; Gen Alpha and Gen Z."
+  },
+  "ratio": {
+    "headword": "ratio",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "When replies outnumber likes (you got ratioed = L). Or to ratio someone.",
+    "culturalNote": "Twitter/X and TikTok; Gen Alpha and Gen Z."
+  },
+  "cringe": {
+    "headword": "cringe",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Embarrassing, awkward, or hard to watch. 'That's cringe.'",
+    "culturalNote": "Internet and streaming; Gen Alpha and Gen Z."
+  },
+  "vibe check": {
+    "headword": "vibe check",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Checking if someone or something has good or bad vibes.",
+    "culturalNote": "TikTok and Gen Alpha; passing or failing the vibe check."
+  },
+  "pog": {
+    "headword": "pog",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Awesome, exciting. From Twitch emote; reaction to something cool.",
+    "culturalNote": "Streaming and gaming; Gen Alpha and Gen Z."
+  },
+  "poggers": {
+    "headword": "poggers",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Same as pog; very cool or hype. 'That's poggers.'",
+    "culturalNote": "Twitch and streaming; Gen Alpha."
+  },
+  "copium": {
+    "headword": "copium",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "False hope or cope; denial. 'That's copium.'",
+    "culturalNote": "Meme from Twitch; Gen Alpha and Gen Z."
+  },
+  "no shot": {
+    "headword": "no shot",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "No way; zero chance. 'There's no shot that happens.'",
+    "culturalNote": "Gaming and internet; Gen Alpha."
+  },
+  "ate": {
+    "headword": "ate",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Killed it; did amazingly. 'She ate.' 'She ate that up.'",
+    "culturalNote": "Black English and ballroom; Gen Alpha and Gen Z."
+  },
+  "left no crumbs": {
+    "headword": "left no crumbs",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Did something perfectly; left nothing for anyone else. 'She left no crumbs.'",
+    "culturalNote": "Black English and drag; Gen Alpha and Gen Z."
+  },
+  "it's giving": {
+    "headword": "it's giving",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "It has the vibe of; it reminds me of. 'It's giving main character.'",
+    "culturalNote": "Black queer and ballroom; TikTok and Gen Alpha."
+  },
+  "ick": {
+    "headword": "ick",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "A turn-off; something that kills attraction. 'The ick.'",
+    "culturalNote": "Dating and TikTok; Gen Alpha and Gen Z."
+  },
+  "delulu": {
+    "headword": "delulu",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Delusional; used playfully. 'Delulu is the solulu.'",
+    "culturalNote": "K-pop and internet fandom; Gen Alpha."
+  },
+  "skill issue": {
+    "headword": "skill issue",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Your fault for being bad; git gud. 'That's a skill issue.'",
+    "culturalNote": "Gaming and Twitch; Gen Alpha and Gen Z."
+  },
+  "mald": {
+    "headword": "mald",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "To be mad; malding = getting upset. From 'mad' + 'bald.'",
+    "culturalNote": "Twitch and gaming; Gen Alpha."
+  },
+  "seethe": {
+    "headword": "seethe",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "To be angry and bitter. 'Stay mad, seethe.'",
+    "culturalNote": "Internet and 4chan; Gen Alpha and Gen Z."
+  },
+  "situationship": {
+    "headword": "situationship",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "A relationship that's not defined; more than friends, not official.",
+    "culturalNote": "Dating and TikTok; Gen Alpha and Gen Z."
+  },
+  "ick energy": {
+    "headword": "ick energy",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Vibes that give someone the ick; off-putting.",
+    "culturalNote": "Dating slang; Gen Alpha."
+  },
+  "she's a 10 but": {
+    "headword": "she's a 10 but",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Meme format: someone is perfect but has one flaw. 'She's a 10 but she's Ohio.'",
+    "culturalNote": "TikTok trend; Gen Alpha rating format."
+  },
+  "hot girl walk": {
+    "headword": "hot girl walk",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "A walk for yourself; self-care, no male gaze. From Megan Thee Stallion.",
+    "culturalNote": "TikTok wellness trend; Gen Alpha and Gen Z."
+  },
+  "girl dinner": {
+    "headword": "girl dinner",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "A random snack plate instead of a real meal. 'This is my girl dinner.'",
+    "culturalNote": "TikTok trend; Gen Alpha and Gen Z."
+  },
+  "girl math": {
+    "headword": "girl math",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Joke logic for spending: 'If I use a gift card it's free.'",
+    "culturalNote": "TikTok trend; Gen Alpha and Gen Z."
+  },
+  "boy math": {
+    "headword": "boy math",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Joke logic for men's bad takes or behavior. Counter to girl math.",
+    "culturalNote": "TikTok trend; Gen Alpha and Gen Z."
+  },
+  "gatekeep": {
+    "headword": "gatekeep",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "To keep something from others; 'don't gatekeep' = share it.",
+    "culturalNote": "Fandom and TikTok; Gen Alpha and Gen Z."
+  },
+  "gaslight": {
+    "headword": "gaslight",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "To manipulate someone into doubting reality. 'Stop gaslighting me.'",
+    "culturalNote": "Psychology term; widespread Gen Alpha and Gen Z use."
+  },
+  "girlboss": {
+    "headword": "girlboss",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Female entrepreneur; often used ironically after the term was criticized.",
+    "culturalNote": "Millennial origin; Gen Alpha uses ironically."
+  },
+  "soft launch": {
+    "headword": "soft launch",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Hinting at a relationship or news without saying it outright.",
+    "culturalNote": "Social media and dating; Gen Alpha and Gen Z."
+  },
+  "hard launch": {
+    "headword": "hard launch",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Officially announcing a relationship or news to everyone.",
+    "culturalNote": "Social media; Gen Alpha and Gen Z."
+  },
+  "beige flag": {
+    "headword": "beige flag",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "A weird but not deal-breaking trait. Between green and red flag.",
+    "culturalNote": "TikTok dating; Gen Alpha."
+  },
+  "green flag": {
+    "headword": "green flag",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "A good sign in a person or relationship.",
+    "culturalNote": "Dating and TikTok; Gen Alpha and Gen Z."
+  },
+  "red flag": {
+    "headword": "red flag",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "A warning sign; something bad about a person or situation.",
+    "culturalNote": "Dating and therapy speak; Gen Alpha and Gen Z."
+  },
+  "pick me": {
+    "headword": "pick me",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Someone who tries too hard to be chosen; often used for women who put others down.",
+    "culturalNote": "TikTok and social media; Gen Alpha and Gen Z."
+  },
+  "unalive": {
+    "headword": "unalive",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "To die or kill; used to avoid content filters on platforms.",
+    "culturalNote": "YouTube and TikTok moderation; Gen Alpha and Gen Z."
+  },
+  "seggs": {
+    "headword": "seggs",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Sex; used to avoid filters or say it in a joking way.",
+    "culturalNote": "Platform moderation; Gen Alpha and Gen Z."
+  },
+  "le dollar bean": {
+    "headword": "le dollar bean",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Lesbian; used to avoid filters or as a joke.",
+    "culturalNote": "TikTok and Gen Alpha; filter avoidance."
+  },
+  "corn": {
+    "headword": "corn",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Porn; used to avoid content filters.",
+    "culturalNote": "Platform moderation; Gen Alpha."
+  },
+  "lettuce": {
+    "headword": "lettuce",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Let us; 'lettuce go' = let us go. Playful spelling.",
+    "culturalNote": "Gen Alpha and kids; internet spelling memes."
+  },
+  "nip nops": {
+    "headword": "nip nops",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Nipples; used to avoid filters or say it in a silly way.",
+    "culturalNote": "Platform moderation; Gen Alpha."
+  },
+  "grape": {
+    "headword": "grape",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Rape; used to avoid filters when discussing the topic seriously or in memes.",
+    "culturalNote": "Platform moderation; heavy topic, use with care."
+  },
+  "rizzler": {
+    "headword": "rizzler",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Someone with a lot of rizz; charismatic. 'He's a rizzler.'",
+    "culturalNote": "TikTok; from rizz; Gen Alpha."
+  },
+  "rizz lord": {
+    "headword": "rizz lord",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Someone with maximum rizz; the best at charm.",
+    "culturalNote": "TikTok and Gen Alpha; rizz variation."
+  },
+  "breadcrumb": {
+    "headword": "breadcrumb",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "A small hint or clue someone leaves; breadcrumbing = stringing along.",
+    "culturalNote": "Dating and TikTok; Gen Alpha and Gen Z."
+  },
+  "breadcrumbing": {
+    "headword": "breadcrumbing",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Leading someone on with small attention; not fully committing.",
+    "culturalNote": "Dating slang; Gen Alpha and Gen Z."
+  },
+  "alpha male": {
+    "headword": "alpha male",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Dominant, confident man; from alpha/beta/sigma meme ecosystem.",
+    "culturalNote": "Internet masculinity; Gen Alpha and Gen Z."
+  },
+  "beta": {
+    "headword": "beta",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Submissive or uncool; opposite of alpha in the alpha/beta/sigma meme.",
+    "culturalNote": "Internet masculinity slang; Gen Alpha."
+  },
+  "main character energy": {
+    "headword": "main character energy",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Vibes of being the star of your own story; confident, memorable.",
+    "culturalNote": "TikTok and Gen Alpha; main character variation."
+  },
+  "grass toucher": {
+    "headword": "grass toucher",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Someone who touches grass; has a life outside the internet. Ironic praise.",
+    "culturalNote": "Internet; Gen Alpha and Gen Z."
+  },
+  "L": {
+    "headword": "L",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Loss; you took an L. Something bad happened.",
+    "culturalNote": "Gaming and sports; Gen Alpha and Gen Z."
+  },
+  "W": {
+    "headword": "W",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Win; you got a W. Something good happened.",
+    "culturalNote": "Gaming and sports; Gen Alpha and Gen Z."
+  },
+  "ratioed": {
+    "headword": "ratioed",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Got more replies than likes; your take failed. 'You got ratioed.'",
+    "culturalNote": "Twitter/X and TikTok; Gen Alpha."
+  },
+  "L take": {
+    "headword": "L take",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "A bad opinion. 'That's an L take.'",
+    "culturalNote": "Internet; Gen Alpha and Gen Z."
+  },
+  "W take": {
+    "headword": "W take",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "A good opinion. 'W take.'",
+    "culturalNote": "Internet; Gen Alpha and Gen Z."
+  },
+  "big W": {
+    "headword": "big W",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "A major win. 'That's a big W.'",
+    "culturalNote": "Gaming and internet; Gen Alpha."
+  },
+  "big L": {
+    "headword": "big L",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "A major loss or fail. 'Took a big L.'",
+    "culturalNote": "Gaming and internet; Gen Alpha."
+  },
+  "periodt": {
+    "headword": "periodt",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Emphasis; that's final. 'She's the best, periodt.'",
+    "culturalNote": "Black English; Gen Alpha and Gen Z; spelling of period."
+  },
+  "slay queen": {
+    "headword": "slay queen",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Praise for someone killing it. 'Slay queen!'",
+    "culturalNote": "Ballroom and Black queer; Gen Alpha and Gen Z."
+  },
+  "no printer": {
+    "headword": "no printer",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "No cap; no lie. 'That's facts, no printer.' (No printer = no receipt = no proof needed.)",
+    "culturalNote": "TikTok and Gen Alpha; variation of no cap."
+  },
+  "print": {
+    "headword": "print",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "To agree; that's facts. 'Print.'",
+    "culturalNote": "TikTok; Gen Alpha; from no printer meme."
+  },
+  "slaps different": {
+    "headword": "slaps different",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Hits differently; hits hard. 'This song slaps different.'",
+    "culturalNote": "Music and TikTok; Gen Alpha and Gen Z."
+  },
+  "shooketh": {
+    "headword": "shooketh",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Very shocked. Jokingly formal version of shook.",
+    "culturalNote": "Internet and Gen Alpha; Shakespeare meme."
+  },
+  "sigma grindset": {
+    "headword": "sigma grindset",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Mindset of a sigma; lone wolf, grind, no approval needed.",
+    "culturalNote": "Meme from sigma male; Gen Alpha and Gen Z."
+  },
+  "delulu is the solulu": {
+    "headword": "delulu is the solulu",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Being delusional is the solution; playful embrace of denial.",
+    "culturalNote": "K-pop and fandom; Gen Alpha."
+  },
+  "skill diff": {
+    "headword": "skill diff",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Short for skill difference; you're just worse. 'Skill diff.'",
+    "culturalNote": "Gaming; Gen Alpha and Gen Z."
+  },
+  "malding": {
+    "headword": "malding",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Being mad; getting upset. 'Stop malding.'",
+    "culturalNote": "Twitch and gaming; Gen Alpha."
+  },
+  "seething": {
+    "headword": "seething",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Being visibly angry and bitter. 'They're seething.'",
+    "culturalNote": "Internet; Gen Alpha and Gen Z."
+  },
+  "hot girl summer": {
+    "headword": "hot girl summer",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Summer of confidence, fun, and self-care. From Megan Thee Stallion.",
+    "culturalNote": "2019 trend; Gen Alpha and Gen Z still use it."
+  },
+  "pov": {
+    "headword": "pov",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Point of view; used to label TikTok skits. 'POV: you just got the ick.'",
+    "culturalNote": "TikTok format; Gen Alpha and Gen Z."
+  },
+  "ngl": {
+    "headword": "ngl",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Not gonna lie. 'Ngl that was fire.'",
+    "culturalNote": "Text and speech; Gen Alpha and Gen Z."
+  },
+  "tbh": {
+    "headword": "tbh",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "To be honest. 'Tbh I don't care.'",
+    "culturalNote": "Text and speech; Gen Alpha and Gen Z."
+  },
+  "imo": {
+    "headword": "imo",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "In my opinion. 'Imo that's mid.'",
+    "culturalNote": "Text and internet; Gen Alpha and Gen Z."
+  },
+  "irl": {
+    "headword": "irl",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "In real life. 'We met irl.'",
+    "culturalNote": "Internet; Gen Alpha and Gen Z."
+  },
+  "rizz god": {
+    "headword": "rizz god",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Someone with ultimate rizz; maximum charm.",
+    "culturalNote": "TikTok; Gen Alpha; rizz variation."
+  },
+  "main character moment": {
+    "headword": "main character moment",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "A moment when you feel like the star of your own movie.",
+    "culturalNote": "TikTok; Gen Alpha."
+  },
+  "npc energy": {
+    "headword": "npc energy",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Vibes of someone with no personality; basic, scripted.",
+    "culturalNote": "Gaming and TikTok; Gen Alpha."
+  },
+  "ohio moment": {
+    "headword": "ohio moment",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "A weird or surreal moment. 'That was such an Ohio moment.'",
+    "culturalNote": "TikTok; Gen Alpha; Ohio meme."
+  },
+  "L + ratio": {
+    "headword": "L + ratio",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "You lost and got ratioed; double L. 'L + ratio + no one asked.'",
+    "culturalNote": "Twitter and TikTok; Gen Alpha and Gen Z."
+  },
+  "no one asked": {
+    "headword": "no one asked",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Dismissive; nobody asked for your opinion.",
+    "culturalNote": "Internet; Gen Alpha and Gen Z."
+  },
+  "she ate that": {
+    "headword": "she ate that",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "She killed it; did amazing. 'She ate that performance.'",
+    "culturalNote": "Ballroom and Black English; Gen Alpha and Gen Z."
+  },
+  "zero crumbs": {
+    "headword": "zero crumbs",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Left nothing; did it all. Same as left no crumbs.",
+    "culturalNote": "Black English; Gen Alpha."
+  },
+  "cringe fest": {
+    "headword": "cringe fest",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Something very cringe; full of awkward moments.",
+    "culturalNote": "Internet; Gen Alpha."
+  },
+  "vibe killer": {
+    "headword": "vibe killer",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Someone or something that ruins the vibe.",
+    "culturalNote": "TikTok; Gen Alpha and Gen Z."
+  },
+  "pog champ": {
+    "headword": "pog champ",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Twitch emote for hype; something pog. 'That's pog champ.'",
+    "culturalNote": "Twitch and streaming; Gen Alpha."
+  },
+  "W energy": {
+    "headword": "W energy",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Winning energy; good vibes. 'She has W energy.'",
+    "culturalNote": "TikTok; Gen Alpha."
+  },
+  "L energy": {
+    "headword": "L energy",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Losing energy; bad vibes. 'That's L energy.'",
+    "culturalNote": "TikTok; Gen Alpha."
+  },
+  "slay all day": {
+    "headword": "slay all day",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Praise; you're killing it constantly. 'Slay all day.'",
+    "culturalNote": "Ballroom and TikTok; Gen Alpha."
+  },
+  "that's so slay": {
+    "headword": "that's so slay",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "That's amazing; that slays. 'That's so slay.'",
+    "culturalNote": "TikTok; Gen Alpha."
+  },
+  "ick list": {
+    "headword": "ick list",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "List of things that give you the ick in dating.",
+    "culturalNote": "TikTok trend; Gen Alpha."
+  },
+  "it's giving main character": {
+    "headword": "it's giving main character",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "It has main character energy. 'It's giving main character.'",
+    "culturalNote": "TikTok; Gen Alpha; it's giving + main character."
+  },
+  "grimace shake challenge": {
+    "headword": "grimace shake challenge",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Viral trend of filming yourself after drinking the Grimace shake.",
+    "culturalNote": "2023 TikTok; Gen Alpha."
+  },
+  "touch grass challenge": {
+    "headword": "touch grass challenge",
+    "slang": true,
+    "generation": "Gen Alpha",
+    "tags": ["slang", "internet"],
+    "usageNote": "Ironic challenge to go outside; or actually going outside to touch grass.",
+    "culturalNote": "Internet meme; Gen Alpha and Gen Z."
+  },
+  "clout": {
+    "headword": "clout",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Fame, attention, or influence (especially on social media). 'Doing it for clout.'",
+    "culturalNote": "Hip-hop and social media; Gen Z."
+  },
+  "hater": {
+    "headword": "hater",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Someone who criticizes or envies you. 'Haters gonna hate.'",
+    "culturalNote": "Hip-hop and mainstream; Gen Z."
+  },
+  "hating": {
+    "headword": "hating",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Being negative or jealous. 'Stop hating.'",
+    "culturalNote": "Hip-hop; Gen Z."
+  },
+  "bougie": {
+    "headword": "bougie",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Bourgeois; fancy, high-class, or extra. 'That's so bougie.'",
+    "culturalNote": "From bourgeois; Black English and Gen Z."
+  },
+  "cheugy": {
+    "headword": "cheugy",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Outdated, uncool, or trying too hard. 'That's cheugy.'",
+    "culturalNote": "TikTok and Gen Z; describes Millennial cringe."
+  },
+  "fit": {
+    "headword": "fit",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Outfit; what you're wearing. 'Nice fit.'",
+    "culturalNote": "Fashion and streetwear; Gen Z."
+  },
+  "fit check": {
+    "headword": "fit check",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Showing off your outfit; fit pic. 'Fit check.'",
+    "culturalNote": "Social media and fashion; Gen Z."
+  },
+  "oomf": {
+    "headword": "oomf",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "One of my followers/friends; someone I know online. 'Oomf posted this.'",
+    "culturalNote": "Twitter and social media; Gen Z."
+  },
+  "oomfie": {
+    "headword": "oomfie",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Cute version of oomf; one of my followers/friends.",
+    "culturalNote": "Social media; Gen Z."
+  },
+  "moots": {
+    "headword": "moots",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Mutuals; people who follow each other. 'We're moots.'",
+    "culturalNote": "Twitter and social media; Gen Z."
+  },
+  "mutuals": {
+    "headword": "mutuals",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "People you follow who follow you back; mutual followers.",
+    "culturalNote": "Social media; Gen Z."
+  },
+  "slide": {
+    "headword": "slide",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To DM someone; slide into DMs. 'I'm gonna slide.'",
+    "culturalNote": "Dating and social media; Gen Z."
+  },
+  "left on read": {
+    "headword": "left on read",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "When someone reads your message but doesn't reply. 'I got left on read.'",
+    "culturalNote": "iMessage and DMs; Gen Z."
+  },
+  "double text": {
+    "headword": "double text",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "To text again before they reply; seen as desperate. 'I don't double text.'",
+    "culturalNote": "Dating and texting; Gen Z."
+  },
+  "ghosted": {
+    "headword": "ghosted",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "When someone cuts off contact with no explanation. 'He ghosted me.'",
+    "culturalNote": "Dating and DMs; Gen Z."
+  },
+  "ghosting": {
+    "headword": "ghosting",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Ignoring someone completely; disappearing on them.",
+    "culturalNote": "Dating; Gen Z and Millennial."
+  },
+  "vibing": {
+    "headword": "vibing",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Relaxing, going with the flow, or enjoying. 'Just vibing.'",
+    "culturalNote": "Widespread; Gen Z."
+  },
+  "extra": {
+    "headword": "extra",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Over the top; too much. 'She's so extra.'",
+    "culturalNote": "Black English and mainstream; Gen Z."
+  },
+  "pressed": {
+    "headword": "pressed",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Upset, stressed, or bothered. 'Why are you so pressed?'",
+    "culturalNote": "Black English; Gen Z."
+  },
+  "triggered": {
+    "headword": "triggered",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Upset or offended; often used dismissively. 'You're triggered.'",
+    "culturalNote": "Internet and meme culture; Gen Z."
+  },
+  "messy": {
+    "headword": "messy",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Dramatic, chaotic, or problematic. 'That's messy.'",
+    "culturalNote": "Reality TV and social media; Gen Z."
+  },
+  "receipt": {
+    "headword": "receipt",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Proof; evidence of what someone said or did. 'Show me the receipt.'",
+    "culturalNote": "Black English and drag; Gen Z."
+  },
+  "receipts": {
+    "headword": "receipts",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Proof or evidence; screenshots, receipts. 'Where are the receipts?'",
+    "culturalNote": "Drag and social media; Gen Z."
+  },
+  "spill": {
+    "headword": "spill",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "To share tea or gossip. 'Spill!' 'Spill the tea.'",
+    "culturalNote": "Black queer and drag; Gen Z."
+  },
+  "doxxing": {
+    "headword": "doxxing",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Publishing someone's private info online to harass them.",
+    "culturalNote": "Internet culture; Gen Z and Millennial."
+  },
+  "doxxed": {
+    "headword": "doxxed",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Had your private info exposed online. 'I got doxxed.'",
+    "culturalNote": "Internet; Gen Z."
+  },
+  "subtweet": {
+    "headword": "subtweet",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "A tweet about someone without naming them. 'That's a subtweet.'",
+    "culturalNote": "Twitter; Gen Z and Millennial."
+  },
+  "subtweeting": {
+    "headword": "subtweeting",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Posting about someone indirectly. 'Stop subtweeting me.'",
+    "culturalNote": "Twitter; Gen Z."
+  },
+  "main": {
+    "headword": "main",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Your main account or main person. 'That's my main.'",
+    "culturalNote": "Social media and fandom; Gen Z."
+  },
+  "link": {
+    "headword": "link",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "A romantic or sexual connection; someone you're talking to. 'Who's your link?'",
+    "culturalNote": "Dating and Black English; Gen Z."
+  },
+  "links": {
+    "headword": "links",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Romantic or sexual connections; options. 'She has links.'",
+    "culturalNote": "Dating; Gen Z."
+  },
+  "bop": {
+    "headword": "bop",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "A catchy, good song. 'This is a bop.'",
+    "culturalNote": "Music slang; Gen Z."
+  },
+  "curve": {
+    "headword": "curve",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "To reject someone; turn them down. 'She curved him.'",
+    "culturalNote": "Black English and dating; Gen Z."
+  },
+  "curving": {
+    "headword": "curving",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Rejecting someone or giving them the cold shoulder.",
+    "culturalNote": "Dating; Gen Z."
+  },
+  "zesty": {
+    "headword": "zesty",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Flamboyant, fruity, or gay-coded; used playfully or as a dig.",
+    "culturalNote": "TikTok and Gen Z; can be affectionate or mean."
+  },
+  "thirst trap": {
+    "headword": "thirst trap",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "A post meant to get attention or thirst. 'She posted a thirst trap.'",
+    "culturalNote": "Social media; Gen Z."
+  },
+  "thirst": {
+    "headword": "thirst",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Desperate for attention or validation. 'So much thirst.'",
+    "culturalNote": "Social media; Gen Z."
+  },
+  "thirsty": {
+    "headword": "thirsty",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Desperate for attention, approval, or romance. 'He's so thirsty.'",
+    "culturalNote": "Dating and social media; Gen Z."
+  },
+  "hot take": {
+    "headword": "hot take",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "A strong or controversial opinion. 'Hot take: that album is mid.'",
+    "culturalNote": "Twitter and podcasts; Gen Z."
+  },
+  "cold take": {
+    "headword": "cold take",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "A boring or obvious opinion; opposite of hot take. 'That's a cold take.'",
+    "culturalNote": "Internet; Gen Z."
+  },
+  "big yikes": {
+    "headword": "big yikes",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "That's really bad or awkward. 'Big yikes.'",
+    "culturalNote": "Internet; Gen Z."
+  },
+  "yikes": {
+    "headword": "yikes",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Reaction to something awkward or bad. 'Yikes.'",
+    "culturalNote": "Widespread; Gen Z."
+  },
+  "oof": {
+    "headword": "oof",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Reaction to something painful or awkward. 'Oof.'",
+    "culturalNote": "Gaming (Roblox) and internet; Gen Z."
+  },
+  "say less": {
+    "headword": "say less",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "I understand; you don't need to say more. 'Say less, I'm in.'",
+    "culturalNote": "Black English; Gen Z."
+  },
+  "I'm dead": {
+    "headword": "I'm dead",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "That's so funny or shocking. 'I'm dead.' 'I'm literally dead.'",
+    "culturalNote": "Internet and texting; Gen Z."
+  },
+  "we're so back": {
+    "headword": "we're so back",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Things are good again; we're winning. 'We're so back.'",
+    "culturalNote": "Twitter and meme culture; Gen Z."
+  },
+  "it's so over": {
+    "headword": "it's so over",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Things are bad; we're done. 'It's so over.'",
+    "culturalNote": "Twitter and doomer meme; Gen Z."
+  },
+  "doomer": {
+    "headword": "doomer",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Someone pessimistic about the future. Doomer mindset.",
+    "culturalNote": "Internet meme; Gen Z."
+  },
+  "bloomer": {
+    "headword": "bloomer",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Someone optimistic; opposite of doomer. 'I'm a bloomer.'",
+    "culturalNote": "Internet meme; Gen Z."
+  },
+  "zoomer": {
+    "headword": "zoomer",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Gen Z person; from 'Gen Z' + 'boomer.'",
+    "culturalNote": "Internet; Gen Z self-identify or are called zoomers."
+  },
+  "okay boomer": {
+    "headword": "okay boomer",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Dismissive reply to an out-of-touch take. 'Okay boomer.'",
+    "culturalNote": "2019 viral; Gen Z to Boomers."
+  },
+  "noob": {
+    "headword": "noob",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Newbie; someone bad or new at something. 'You're a noob.'",
+    "culturalNote": "Gaming; Gen Z."
+  },
+  "scrub": {
+    "headword": "scrub",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Someone bad at the game; loser. 'Scrub.'",
+    "culturalNote": "Gaming; Gen Z."
+  },
+  "gg": {
+    "headword": "gg",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Good game; said at the end of a match or to concede. 'Gg.'",
+    "culturalNote": "Gaming; Gen Z and Millennial."
+  },
+  "ggs": {
+    "headword": "ggs",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Good games; plural of gg. 'Ggs.'",
+    "culturalNote": "Gaming; Gen Z."
+  },
+  "ez": {
+    "headword": "ez",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Easy; used to trash-talk after a win. 'Ez.'",
+    "culturalNote": "Gaming; Gen Z."
+  },
+  "pwned": {
+    "headword": "pwned",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Owned; destroyed. 'You got pwned.' From leetspeak.",
+    "culturalNote": "Gaming and internet; Gen Z."
+  },
+  "rekt": {
+    "headword": "rekt",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Wrecked; destroyed. 'Get rekt.'",
+    "culturalNote": "Gaming meme; Gen Z."
+  },
+  "clout chaser": {
+    "headword": "clout chaser",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Someone who does things just for fame or attention. 'Clout chaser.'",
+    "culturalNote": "Social media; Gen Z."
+  },
+  "ded": {
+    "headword": "ded",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Dead; spelling for emphasis. 'I'm ded.' 'That killed me.'",
+    "culturalNote": "Internet and texting; Gen Z."
+  },
+  "dying": {
+    "headword": "dying",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Laughing really hard. 'I'm dying.'",
+    "culturalNote": "Widespread; Gen Z."
+  },
+  "newbie": {
+    "headword": "newbie",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Someone new to something. 'She's a newbie.'",
+    "culturalNote": "Gaming and internet; Gen Z."
+  },
+  "wp": {
+    "headword": "wp",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Well played; said after a good game or move. 'Wp.'",
+    "culturalNote": "Gaming; Gen Z."
+  },
+  "glhf": {
+    "headword": "glhf",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Good luck have fun; said at the start of a game. 'Glhf.'",
+    "culturalNote": "Gaming; Gen Z."
+  },
+  "owned": {
+    "headword": "owned",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Destroyed; got owned. 'You got owned.'",
+    "culturalNote": "Gaming and internet; Gen Z."
+  },
+  "wrecked": {
+    "headword": "wrecked",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Destroyed; got wrecked. 'Get wrecked.'",
+    "culturalNote": "Gaming; Gen Z."
+  },
+  "newb": {
+    "headword": "newb",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "internet"],
+    "usageNote": "Short for newbie; someone new or bad. 'You're a newb.'",
+    "culturalNote": "Gaming; Gen Z."
+  },
+  "she ate": {
+    "headword": "she ate",
+    "slang": true,
+    "generation": "Gen Z",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "She killed it; did amazing. 'She ate.'",
+    "culturalNote": "Ballroom and Black English; Gen Z."
+  },
+  "selfie": {
+    "headword": "selfie",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "A photo you take of yourself, usually with a phone. 'Take a selfie.'",
+    "culturalNote": "2010s social media; Millennial and Gen Z."
+  },
+  "hashtag": {
+    "headword": "hashtag",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "The # symbol used to tag topics on social media. 'Hashtag blessed.'",
+    "culturalNote": "Twitter and Instagram; Millennial era."
+  },
+  "binge": {
+    "headword": "binge",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To do something in excess; binge-watch a show. 'I binged the whole season.'",
+    "culturalNote": "Streaming era; Millennial."
+  },
+  "binge-watch": {
+    "headword": "binge-watch",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "To watch many episodes of a show in one sitting. 'We binge-watched it.'",
+    "culturalNote": "Netflix and streaming; Millennial."
+  },
+  "swipe left": {
+    "headword": "swipe left",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "To reject someone on a dating app. 'I swiped left.'",
+    "culturalNote": "Tinder; Millennial dating."
+  },
+  "swipe right": {
+    "headword": "swipe right",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "To like or match with someone on a dating app. 'Swipe right.'",
+    "culturalNote": "Tinder; Millennial dating."
+  },
+  "match": {
+    "headword": "match",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "When two people like each other on a dating app. 'We matched.'",
+    "culturalNote": "Tinder and dating apps; Millennial."
+  },
+  "brunch": {
+    "headword": "brunch",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Late breakfast/early lunch; weekend meal. 'Let's get brunch.'",
+    "culturalNote": "Millennial lifestyle; avocado toast era."
+  },
+  "avocado toast": {
+    "headword": "avocado toast",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Toast with mashed avocado; stereotype of Millennial spending. 'Avocado toast.'",
+    "culturalNote": "Millennial stereotype; blamed for not buying houses."
+  },
+  "mansplain": {
+    "headword": "mansplain",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "When a man explains something condescendingly to a woman. 'Stop mansplaining.'",
+    "culturalNote": "2010s feminist critique; Millennial."
+  },
+  "mansplaining": {
+    "headword": "mansplaining",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Condescending explanation by a man to a woman. 'That's mansplaining.'",
+    "culturalNote": "Internet and feminism; Millennial."
+  },
+  "humblebrag": {
+    "headword": "humblebrag",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Bragging while pretending to be humble. 'Ugh, my third vacation this year.'",
+    "culturalNote": "Social media; Millennial."
+  },
+  "first world problems": {
+    "headword": "first world problems",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Minor complaints that only rich countries have. 'First world problems.'",
+    "culturalNote": "2010s meme; Millennial self-awareness."
+  },
+  "hot mess": {
+    "headword": "hot mess",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Chaotic but attractive; or a disaster. 'She's a hot mess.'",
+    "culturalNote": "Reality TV and pop culture; Millennial."
+  },
+  "hot mess express": {
+    "headword": "hot mess express",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Someone or something that's a total hot mess. 'Hot mess express.'",
+    "culturalNote": "Millennial; intensified hot mess."
+  },
+  "facepalm": {
+    "headword": "facepalm",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "To put your hand on your face in disbelief. 'Facepalm.'",
+    "culturalNote": "Internet meme; Millennial."
+  },
+  "epic": {
+    "headword": "epic",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Amazing, huge. 'That was epic.' 'Epic fail.'",
+    "culturalNote": "2000s internet; Millennial."
+  },
+  "epic fail": {
+    "headword": "epic fail",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "A huge failure. 'Epic fail.'",
+    "culturalNote": "Early internet meme; Millennial."
+  },
+  "on fleek": {
+    "headword": "on fleek",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Perfect, on point. 'Eyebrows on fleek.'",
+    "culturalNote": "Black English; 2010s Vine and Millennial."
+  },
+  "fleek": {
+    "headword": "fleek",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "On point, perfect. 'We're fleek.'",
+    "culturalNote": "From on fleek; Millennial."
+  },
+  "bae": {
+    "headword": "bae",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Babe; significant other or favorite. 'That's bae.'",
+    "culturalNote": "Before anyone else; Black English and Millennial."
+  },
+  "boo": {
+    "headword": "boo",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Significant other; sweetheart. 'Hey boo.'",
+    "culturalNote": "African American English; Millennial dating."
+  },
+  "yaaas": {
+    "headword": "yaaas",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Yes! Enthusiastic approval. 'Yaaas queen!'",
+    "culturalNote": "Drag and Black queer; Millennial."
+  },
+  "yas": {
+    "headword": "yas",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Yes! Excited agreement. 'Yas!'",
+    "culturalNote": "Drag and queer culture; Millennial."
+  },
+  "queen": {
+    "headword": "queen",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Term of praise; you're the best. 'You're a queen.' 'Yas queen.'",
+    "culturalNote": "Black queer and drag; Millennial."
+  },
+  "werk": {
+    "headword": "werk",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Work! Praise for doing it. 'Werk!'",
+    "culturalNote": "Ballroom and drag; Millennial."
+  },
+  "real talk": {
+    "headword": "real talk",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Seriously; being honest. 'Real talk, that was bad.'",
+    "culturalNote": "Hip-hop and mainstream; Millennial."
+  },
+  "vibes": {
+    "headword": "vibes",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "The mood or feeling. 'Good vibes.' 'Bad vibes.'",
+    "culturalNote": "Hippie roots; Millennial and Gen Z."
+  },
+  "mood": {
+    "headword": "mood",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "I relate; that's how I feel. 'That's a mood.' 'Big mood.'",
+    "culturalNote": "Tumblr and Twitter; Millennial."
+  },
+  "relatable": {
+    "headword": "relatable",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "I relate to that. 'So relatable.'",
+    "culturalNote": "Tumblr and social media; Millennial."
+  },
+  "goals": {
+    "headword": "goals",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Something to aspire to. 'Relationship goals.' 'Life goals.'",
+    "culturalNote": "Instagram; Millennial."
+  },
+  "life goals": {
+    "headword": "life goals",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "What I want in life. 'That's life goals.'",
+    "culturalNote": "Social media; Millennial."
+  },
+  "aesthetic": {
+    "headword": "aesthetic",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "A vibe or visual style. 'That's my aesthetic.'",
+    "culturalNote": "Tumblr and Instagram; Millennial."
+  },
+  "cozy": {
+    "headword": "cozy",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Comfortable, warm. 'Cozy vibes.' 'Stay cozy.'",
+    "culturalNote": "Hygge trend; Millennial self-care."
+  },
+  "hygge": {
+    "headword": "hygge",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Danish concept of coziness and comfort. 'So hygge.'",
+    "culturalNote": "2010s wellness trend; Millennial."
+  },
+  "self-care": {
+    "headword": "self-care",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Taking care of yourself; me time. 'Self-care day.'",
+    "culturalNote": "Wellness and therapy speak; Millennial."
+  },
+  "burnout": {
+    "headword": "burnout",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Exhaustion from overwork or stress. 'I have burnout.'",
+    "culturalNote": "Work culture; Millennial."
+  },
+  "hustle": {
+    "headword": "hustle",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To work hard; grind. 'Side hustle.' 'Hustle culture.'",
+    "culturalNote": "Entrepreneur culture; Millennial."
+  },
+  "side hustle": {
+    "headword": "side hustle",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "A side job or gig for extra money. 'I have a side hustle.'",
+    "culturalNote": "Gig economy; Millennial."
+  },
+  "gig": {
+    "headword": "gig",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "A job or project, often short-term. 'Gig economy.' 'I have a gig.'",
+    "culturalNote": "Freelance and Uber era; Millennial."
+  },
+  "influencer": {
+    "headword": "influencer",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Someone with a large social following who promotes products. 'She's an influencer.'",
+    "culturalNote": "Instagram and YouTube; Millennial."
+  },
+  "blog": {
+    "headword": "blog",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Web log; online journal or site. 'I have a blog.'",
+    "culturalNote": "2000s–2010s internet; Millennial."
+  },
+  "vlog": {
+    "headword": "vlog",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Video blog; video diary. 'Daily vlog.'",
+    "culturalNote": "YouTube; Millennial."
+  },
+  "unboxing": {
+    "headword": "unboxing",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Video of opening a product. 'Unboxing video.'",
+    "culturalNote": "YouTube; Millennial."
+  },
+  "haul": {
+    "headword": "haul",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Video or post showing stuff you bought. 'Haul video.' 'Shopping haul.'",
+    "culturalNote": "YouTube and haul culture; Millennial."
+  },
+  "flat lay": {
+    "headword": "flat lay",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Photo of items arranged flat from above. 'Flat lay.'",
+    "culturalNote": "Instagram aesthetic; Millennial."
+  },
+  "throwback": {
+    "headword": "throwback",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Old photo or memory. 'Throwback to last summer.'",
+    "culturalNote": "Social media; Millennial."
+  },
+  "tbt": {
+    "headword": "tbt",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Throwback Thursday; posting an old photo. 'Tbt to 2015.'",
+    "culturalNote": "Instagram; Millennial."
+  },
+  "meme": {
+    "headword": "meme",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "A viral image or idea. 'That's a meme.' 'Send me the meme.'",
+    "culturalNote": "Internet culture; Millennial and Gen Z."
+  },
+  "viral": {
+    "headword": "viral",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Spreading fast online. 'That went viral.'",
+    "culturalNote": "Social media; Millennial."
+  },
+  "trending": {
+    "headword": "trending",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Popular right now. 'It's trending on Twitter.'",
+    "culturalNote": "Twitter and social; Millennial."
+  },
+  "catfish": {
+    "headword": "catfish",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Someone who fakes their identity online. 'He's a catfish.'",
+    "culturalNote": "MTV show and dating; Millennial."
+  },
+  "catfishing": {
+    "headword": "catfishing",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Pretending to be someone else online. 'She's catfishing.'",
+    "culturalNote": "Online dating; Millennial."
+  },
+  "unfriend": {
+    "headword": "unfriend",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "To remove someone from your friends list. 'I unfriended him.'",
+    "culturalNote": "Facebook; Millennial."
+  },
+  "unfollow": {
+    "headword": "unfollow",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "To stop following someone. 'I unfollowed her.'",
+    "culturalNote": "Twitter and Instagram; Millennial."
+  },
+  "dm": {
+    "headword": "dm",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Direct message. 'Dm me.' 'Slide into my DMs.'",
+    "culturalNote": "Twitter and Instagram; Millennial."
+  },
+  "inbox": {
+    "headword": "inbox",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Direct messages. 'Check your inbox.' 'Inbox me.'",
+    "culturalNote": "Social media; Millennial."
+  },
+  "lol": {
+    "headword": "lol",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Laugh out loud; used when something's funny. 'Lol.'",
+    "culturalNote": "Early internet and texting; Millennial."
+  },
+  "lmao": {
+    "headword": "lmao",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Laughing my ass off. 'Lmao that's great.'",
+    "culturalNote": "Internet and texting; Millennial."
+  },
+  "rofl": {
+    "headword": "rofl",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Rolling on the floor laughing. 'Rofl.'",
+    "culturalNote": "Early internet; Millennial."
+  },
+  "omg": {
+    "headword": "omg",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Oh my God. 'Omg yes!'",
+    "culturalNote": "Texting; Millennial."
+  },
+  "brb": {
+    "headword": "brb",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Be right back. 'Brb.'",
+    "culturalNote": "Chat and texting; Millennial."
+  },
+  "g2g": {
+    "headword": "g2g",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Got to go. 'G2g.'",
+    "culturalNote": "Texting and AIM; Millennial."
+  },
+  "ttyl": {
+    "headword": "ttyl",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Talk to you later. 'Ttyl.'",
+    "culturalNote": "Texting; Millennial."
+  },
+  "hmu": {
+    "headword": "hmu",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Hit me up; contact me. 'Hmu if you want to hang.'",
+    "culturalNote": "Texting and social; Millennial."
+  },
+  "netflix and chill": {
+    "headword": "netflix and chill",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Euphemism for hooking up while watching Netflix. 'Netflix and chill?'",
+    "culturalNote": "2010s dating; Millennial."
+  },
+  "booty call": {
+    "headword": "booty call",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "A late-night call or text for sex. 'It was a booty call.'",
+    "culturalNote": "Dating; Millennial."
+  },
+  "hookup": {
+    "headword": "hookup",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Casual sex or romantic encounter. 'We hooked up.'",
+    "culturalNote": "Dating culture; Millennial."
+  },
+  "cuffing season": {
+    "headword": "cuffing season",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Fall/winter when people want a relationship. 'It's cuffing season.'",
+    "culturalNote": "Dating; Millennial."
+  },
+  "ride or die": {
+    "headword": "ride or die",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Someone who's loyal no matter what. 'She's my ride or die.'",
+    "culturalNote": "Hip-hop and Black English; Millennial."
+  },
+  "bff": {
+    "headword": "bff",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Best friends forever. 'She's my bff.'",
+    "culturalNote": "Texting and teen culture; Millennial."
+  },
+  "tribe": {
+    "headword": "tribe",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Your close group of friends. 'My tribe.'",
+    "culturalNote": "Wellness and community; Millennial."
+  },
+  "peeps": {
+    "headword": "peeps",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "People; your friends. 'Hey peeps.'",
+    "culturalNote": "Casual; Millennial."
+  },
+  "crew": {
+    "headword": "crew",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Your friend group or team. 'My crew.'",
+    "culturalNote": "Hip-hop and mainstream; Millennial."
+  },
+  "thot": {
+    "headword": "thot",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "That hoe over there; derogatory for a woman. 'She's a thot.'",
+    "culturalNote": "Internet and hip-hop; Millennial; often criticized."
+  },
+  "otp": {
+    "headword": "otp",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "One true pairing; favorite fictional or real couple. 'They're my otp.'",
+    "culturalNote": "Fandom; Millennial."
+  },
+  "bromance": {
+    "headword": "bromance",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Close friendship between two guys. 'Their bromance.'",
+    "culturalNote": "2000s portmanteau; Millennial."
+  },
+  "frenemy": {
+    "headword": "frenemy",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Friend who's also a rival. 'She's my frenemy.'",
+    "culturalNote": "Portmanteau; Millennial."
+  },
+  "relationship goals": {
+    "headword": "relationship goals",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "A couple to aspire to. 'Relationship goals.'",
+    "culturalNote": "Instagram; Millennial."
+  },
+  "career goals": {
+    "headword": "career goals",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Job or career to aspire to. 'Career goals.'",
+    "culturalNote": "LinkedIn and professional; Millennial."
+  },
+  "no filter": {
+    "headword": "no filter",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Being blunt; or a photo without a filter. 'No filter.'",
+    "culturalNote": "Instagram; Millennial."
+  },
+  "read receipt": {
+    "headword": "read receipt",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Notification that someone read your message. 'Read receipts on.'",
+    "culturalNote": "iMessage and apps; Millennial."
+  },
+  "throwback thursday": {
+    "headword": "throwback thursday",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Posting an old photo on Thursday. 'Throwback Thursday.'",
+    "culturalNote": "Instagram; Millennial."
+  },
+  "tl;dr": {
+    "headword": "tl;dr",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Too long; didn't read. Summary. 'Tl;dr: it was great.'",
+    "culturalNote": "Reddit and internet; Millennial."
+  },
+  "tldr": {
+    "headword": "tldr",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Same as tl;dr; summary. 'Tldr.'",
+    "culturalNote": "Internet; Millennial."
+  },
+  "imho": {
+    "headword": "imho",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "In my humble opinion. 'Imho that's wrong.'",
+    "culturalNote": "Forums and early internet; Millennial."
+  },
+  "eli5": {
+    "headword": "eli5",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Explain like I'm 5; simple explanation. 'Eli5: how does this work?'",
+    "culturalNote": "Reddit; Millennial."
+  },
+  "blogger": {
+    "headword": "blogger",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Someone who writes a blog. 'She's a blogger.'",
+    "culturalNote": "2000s–2010s; Millennial."
+  },
+  "vlogger": {
+    "headword": "vlogger",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "Someone who makes vlogs. 'YouTube vlogger.'",
+    "culturalNote": "YouTube; Millennial."
+  },
+  "seen": {
+    "headword": "seen",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "When someone has read your message (read receipt). 'He left me on seen.'",
+    "culturalNote": "iMessage and apps; Millennial."
+  },
+  "big mood": {
+    "headword": "big mood",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "I strongly relate. 'That's a big mood.'",
+    "culturalNote": "Tumblr and Twitter; Millennial."
+  },
+  "same": {
+    "headword": "same",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "I feel the same; me too. 'Same.' 'Same here.'",
+    "culturalNote": "Tumblr and social; Millennial."
+  },
+  "wtf": {
+    "headword": "wtf",
+    "slang": true,
+    "generation": "Millennial",
+    "tags": ["slang", "internet"],
+    "usageNote": "What the fuck; expression of shock or confusion. 'Wtf.'",
+    "culturalNote": "Texting and internet; Millennial."
+  },
+  "square": {
+    "headword": "square",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Uncool, conventional, or straight-laced. 'Don't be a square.'",
+    "culturalNote": "Jazz and Beat era; Boomer."
+  },
+  "hep": {
+    "headword": "hep",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Hip; in the know. 'He's hep to the scene.'",
+    "culturalNote": "Jazz era; precursor to hip; Boomer."
+  },
+  "hepcat": {
+    "headword": "hepcat",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "A cool person; someone who's hep. 'That hepcat.'",
+    "culturalNote": "Jazz and swing; Boomer."
+  },
+  "pad": {
+    "headword": "pad",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Apartment or room. 'Come to my pad.'",
+    "culturalNote": "Beat and 60s; Boomer."
+  },
+  "bread": {
+    "headword": "bread",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Money. 'I need some bread.'",
+    "culturalNote": "Rhyming slang (bread = bread and honey = money); Boomer."
+  },
+  "dough": {
+    "headword": "dough",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Money. 'Making dough.'",
+    "culturalNote": "Old slang; Boomer era."
+  },
+  "bucks": {
+    "headword": "bucks",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Dollars. 'Ten bucks.'",
+    "culturalNote": "American slang; Boomer."
+  },
+  "bummer": {
+    "headword": "bummer",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "A downer; something disappointing. 'What a bummer.'",
+    "culturalNote": "60s counterculture; Boomer."
+  },
+  "downer": {
+    "headword": "downer",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Something depressing; a buzzkill. 'That's a downer.'",
+    "culturalNote": "60s and 70s; Boomer."
+  },
+  "right on": {
+    "headword": "right on",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "I agree; exactly. 'Right on!'",
+    "culturalNote": "Black English and 60s activism; Boomer."
+  },
+  "peace": {
+    "headword": "peace",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Goodbye; peace out. 'Peace.'",
+    "culturalNote": "60s and 70s; Boomer."
+  },
+  "peace out": {
+    "headword": "peace out",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Goodbye; I'm leaving. 'Peace out.'",
+    "culturalNote": "60s counterculture; Boomer."
+  },
+  "solid": {
+    "headword": "solid",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Good; reliable; I agree. 'That's solid.'",
+    "culturalNote": "Jazz and Black English; Boomer."
+  },
+  "heavy": {
+    "headword": "heavy",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Serious, deep, or intense. 'That's heavy.'",
+    "culturalNote": "60s and 70s; Boomer."
+  },
+  "trip": {
+    "headword": "trip",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Experience, especially on drugs; or a weird experience. 'Bad trip.'",
+    "culturalNote": "60s drug culture; Boomer."
+  },
+  "freak out": {
+    "headword": "freak out",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To panic, lose it, or have an intense reaction. 'Don't freak out.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "crash": {
+    "headword": "crash",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To sleep somewhere; or to show up. 'Can I crash at your place?'",
+    "culturalNote": "60s and 70s; Boomer."
+  },
+  "split": {
+    "headword": "split",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To leave. 'Let's split.'",
+    "culturalNote": "Beat and 60s; Boomer."
+  },
+  "joint": {
+    "headword": "joint",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "A place; a bar or club. 'This joint.' 'Let's blow this joint.'",
+    "culturalNote": "Jazz and gangster slang; Boomer."
+  },
+  "happening": {
+    "headword": "happening",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Event or scene; or cool, going on. 'Where's the happening?'",
+    "culturalNote": "60s; Boomer."
+  },
+  "scene": {
+    "headword": "scene",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "The social world or place. 'The scene.' 'Not my scene.'",
+    "culturalNote": "60s and 70s; Boomer."
+  },
+  "straight": {
+    "headword": "straight",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Conventional; not high; honest. 'Stay straight.'",
+    "culturalNote": "60s counterculture; Boomer."
+  },
+  "lame": {
+    "headword": "lame",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Uncool; boring. 'That's lame.'",
+    "culturalNote": "Widespread; Boomer and later."
+  },
+  "bogus": {
+    "headword": "bogus",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Fake; bad. 'That's bogus.'",
+    "culturalNote": "60s and 70s; Boomer and Gen X."
+  },
+  "righteous": {
+    "headword": "righteous",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Good; morally right; awesome. 'Righteous!'",
+    "culturalNote": "Black English and 60s; Boomer."
+  },
+  "mellow": {
+    "headword": "mellow",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Relaxed, laid-back. 'Stay mellow.'",
+    "culturalNote": "60s and 70s; Boomer."
+  },
+  "laid-back": {
+    "headword": "laid-back",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Relaxed, easygoing. 'He's laid-back.'",
+    "culturalNote": "70s; Boomer."
+  },
+  "rap": {
+    "headword": "rap",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "To talk; conversation. 'Let's rap.'",
+    "culturalNote": "Black English; Boomer (before hip-hop rap)."
+  },
+  "jive": {
+    "headword": "jive",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Nonsense; to fool someone. 'Don't give me that jive.'",
+    "culturalNote": "Jazz and Black English; Boomer."
+  },
+  "jive turkey": {
+    "headword": "jive turkey",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Someone who talks jive; a fool. 'You jive turkey.'",
+    "culturalNote": "70s Black English; Boomer."
+  },
+  "turkey": {
+    "headword": "turkey",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "A loser or jerk. 'What a turkey.'",
+    "culturalNote": "60s and 70s; Boomer."
+  },
+  "cat": {
+    "headword": "cat",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "A person; guy. 'Cool cat.'",
+    "culturalNote": "Jazz and Beat; Boomer."
+  },
+  "daddy-o": {
+    "headword": "daddy-o",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Term of address; guy. 'Hey daddy-o.'",
+    "culturalNote": "Beat and 50s; Boomer."
+  },
+  "fox": {
+    "headword": "fox",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Attractive person. 'She's a fox.'",
+    "culturalNote": "60s and 70s; Boomer."
+  },
+  "foxy": {
+    "headword": "foxy",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Attractive; sexy. 'Foxy lady.'",
+    "culturalNote": "60s and 70s; Boomer."
+  },
+  "chick": {
+    "headword": "chick",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Young woman. 'That chick.'",
+    "culturalNote": "60s and 70s; Boomer (now often dated)."
+  },
+  "bird": {
+    "headword": "bird",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Woman; girlfriend. 'My bird.'",
+    "culturalNote": "British and 60s; Boomer."
+  },
+  "dude": {
+    "headword": "dude",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Guy; term of address. 'Hey dude.'",
+    "culturalNote": "Surfer and 60s; Boomer and later."
+  },
+  "the man": {
+    "headword": "the man",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "The establishment; authority. 'Stick it to the man.'",
+    "culturalNote": "60s counterculture; Boomer."
+  },
+  "establishment": {
+    "headword": "establishment",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "The powers that be; mainstream authority. 'The establishment.'",
+    "culturalNote": "60s activism; Boomer."
+  },
+  "pig": {
+    "headword": "pig",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Police officer (derogatory). 'The pigs.'",
+    "culturalNote": "60s counterculture; Boomer."
+  },
+  "fuzz": {
+    "headword": "fuzz",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Police. 'Here comes the fuzz.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "narc": {
+    "headword": "narc",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Informant; narcotics officer. 'Don't be a narc.'",
+    "culturalNote": "60s and 70s; Boomer."
+  },
+  "bust": {
+    "headword": "bust",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Arrest; or to catch someone. 'We got busted.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "busted": {
+    "headword": "busted",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Caught; arrested. 'I'm busted.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "rip-off": {
+    "headword": "rip-off",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "A scam; overpriced. 'That's a rip-off.'",
+    "culturalNote": "60s and 70s; Boomer."
+  },
+  "rip off": {
+    "headword": "rip off",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To cheat or steal. 'They ripped me off.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "moolah": {
+    "headword": "moolah",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Money. 'I need moolah.'",
+    "culturalNote": "Old slang; Boomer."
+  },
+  "scratch": {
+    "headword": "scratch",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Money. 'I don't have the scratch.'",
+    "culturalNote": "American slang; Boomer."
+  },
+  "cheddar": {
+    "headword": "cheddar",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Money. 'Making cheddar.'",
+    "culturalNote": "Slang; Boomer era."
+  },
+  "hang loose": {
+    "headword": "hang loose",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Relax; take it easy. 'Hang loose.'",
+    "culturalNote": "Surfer and 60s; Boomer."
+  },
+  "power to the people": {
+    "headword": "power to the people",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Slogan of solidarity. 'Power to the people!'",
+    "culturalNote": "60s and 70s activism; Boomer."
+  },
+  "stick it to the man": {
+    "headword": "stick it to the man",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To defy authority. 'Stick it to the man.'",
+    "culturalNote": "60s counterculture; Boomer."
+  },
+  "soul brother": {
+    "headword": "soul brother",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Black man; brother in solidarity. 'Soul brother.'",
+    "culturalNote": "60s Black culture; Boomer."
+  },
+  "soul sister": {
+    "headword": "soul sister",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Black woman; sister in solidarity. 'Soul sister.'",
+    "culturalNote": "60s Black culture; Boomer."
+  },
+  "zonked": {
+    "headword": "zonked",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Exhausted or very high. 'I'm zonked.'",
+    "culturalNote": "60s drug culture; Boomer."
+  },
+  "stoned": {
+    "headword": "stoned",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "High on drugs. 'We got stoned.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "wig out": {
+    "headword": "wig out",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To freak out; lose it. 'She wigged out.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "flip out": {
+    "headword": "flip out",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To freak out; lose your cool. 'He flipped out.'",
+    "culturalNote": "60s and 70s; Boomer."
+  },
+  "crash pad": {
+    "headword": "crash pad",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Place to sleep; temporary digs. 'Need a crash pad.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "blow": {
+    "headword": "blow",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To leave. 'Let's blow this joint.'",
+    "culturalNote": "Jazz and 60s; Boomer."
+  },
+  "blow this joint": {
+    "headword": "blow this joint",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To leave this place. 'Let's blow this joint.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "hang": {
+    "headword": "hang",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To hang out; spend time. 'Let's hang.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "hang out": {
+    "headword": "hang out",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To spend time together. 'We hung out.'",
+    "culturalNote": "60s; Boomer and later."
+  },
+  "breadwinner": {
+    "headword": "breadwinner",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Person who earns the family's money. 'She's the breadwinner.'",
+    "culturalNote": "Traditional; Boomer era."
+  },
+  "gas": {
+    "headword": "gas",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Something fun or hilarious. 'That was a gas.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "drag": {
+    "headword": "drag",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Something boring or a bummer. 'What a drag.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "buzz": {
+    "headword": "buzz",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "A high or good feeling. 'I've got a buzz.'",
+    "culturalNote": "60s drug and party culture; Boomer."
+  },
+  "copacetic": {
+    "headword": "copacetic",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Fine; everything's good. 'We're copacetic.'",
+    "culturalNote": "Jazz and 60s; Boomer."
+  },
+  "turn on": {
+    "headword": "turn on",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To excite or attract; or to get high. 'That turns me on.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "turn off": {
+    "headword": "turn off",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To repel or bore. 'That turns me off.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "turn on tune in drop out": {
+    "headword": "turn on tune in drop out",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Leary's slogan: get high, expand mind, leave mainstream.",
+    "culturalNote": "60s counterculture; Boomer."
+  },
+  "grass": {
+    "headword": "grass",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Marijuana. 'Smoking grass.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "weed": {
+    "headword": "weed",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Marijuana. 'Some weed.'",
+    "culturalNote": "60s and 70s; Boomer."
+  },
+  "high": {
+    "headword": "high",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Under the influence of drugs. 'We got high.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "trip out": {
+    "headword": "trip out",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "To have a drug trip; or to be amazed. 'I'm tripping out.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "mind-blowing": {
+    "headword": "mind-blowing",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Amazing; overwhelming. 'Mind-blowing.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "head": {
+    "headword": "head",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Drug user or fan. 'He's a head.' 'Pothead.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "freak": {
+    "headword": "freak",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Enthusiast; or weirdo. 'He's a freak for jazz.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "gigging": {
+    "headword": "gigging",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Playing gigs; doing paid performances. 'We're gigging tonight.'",
+    "culturalNote": "Jazz and music; Boomer."
+  },
+  "bread and butter": {
+    "headword": "bread and butter",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Main source of income. 'That's my bread and butter.'",
+    "culturalNote": "Traditional; Boomer."
+  },
+  "green": {
+    "headword": "green",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Money; cash. 'I need some green.'",
+    "culturalNote": "American slang; Boomer."
+  },
+  "loot": {
+    "headword": "loot",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Money; spoils. 'We got the loot.'",
+    "culturalNote": "Slang; Boomer."
+  },
+  "bread and honey": {
+    "headword": "bread and honey",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Rhyming slang for money. 'Bread and honey.'",
+    "culturalNote": "Cockney and slang; Boomer."
+  },
+  "dig it": {
+    "headword": "dig it",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Understand it; like it. 'Dig it?'",
+    "culturalNote": "Beat and 60s; Boomer."
+  },
+  "can you dig it": {
+    "headword": "can you dig it",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Do you understand? Do you get it? 'Can you dig it?'",
+    "culturalNote": "60s and 70s; Boomer."
+  },
+  "out of sight": {
+    "headword": "out of sight",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Amazing; incredible. 'That's out of sight!'",
+    "culturalNote": "60s; Boomer."
+  },
+  "boss": {
+    "headword": "boss",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Great; the best. 'That's boss.'",
+    "culturalNote": "Black English and 60s; Boomer."
+  },
+  "bad": {
+    "headword": "bad",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "AAVE"],
+    "usageNote": "Good; excellent (inverted). 'He's bad.'",
+    "culturalNote": "Black English; Boomer."
+  },
+  "tough": {
+    "headword": "tough",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Great; cool. 'That's tough.'",
+    "culturalNote": "60s; Boomer."
+  },
+  "neat": {
+    "headword": "neat",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Cool; great. 'That's neat!'",
+    "culturalNote": "50s and 60s; Boomer."
+  },
+  "swell": {
+    "headword": "swell",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Great; fine. 'That's swell.'",
+    "culturalNote": "Mid-century; Boomer."
+  },
+  "keen": {
+    "headword": "keen",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Enthusiastic; great. 'I'm keen on it.' 'That's keen.'",
+    "culturalNote": "50s; Boomer."
+  },
+  "dynamite": {
+    "headword": "dynamite",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Amazing; great. 'That's dynamite!'",
+    "culturalNote": "60s and 70s; Boomer."
+  },
+  "grody": {
+    "headword": "grody",
+    "slang": true,
+    "generation": "Boomer",
+    "tags": ["slang", "colloquial"],
+    "usageNote": "Disgusting; gross. 'That's grody.'",
+    "culturalNote": "70s surfer and valley; Boomer."
+  },
+  "hello": {
+    "headword": "hello",
+    "slang": false,
+    "tags": ["greeting", "everyday"],
+    "usageNote": "Standard greeting when meeting someone or answering the phone; from hullo, itself from holla (to shout).",
+    "culturalNote": "Universal in North American English; used across all generations."
+  },
+  "word": {
+    "headword": "word",
+    "slang": false,
+    "tags": ["everyday"],
+    "usageNote": "In Black English and casual use, 'word' can mean 'I agree' or 'that's true' (e.g. 'Word, I'm with you').",
+    "culturalNote": "Also used as exclamation: 'Word up' or 'Word.' for affirmation."
+  },
+  "language": {
+    "headword": "language",
+    "slang": false,
+    "tags": ["everyday"],
+    "usageNote": "In casual and academic use; 'language' can refer to a particular variety (e.g. 'Black English', 'slang').",
+    "culturalNote": "North American usage often distinguishes standard and vernacular varieties."
+  }
+}
